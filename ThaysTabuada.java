@@ -1,5 +1,5 @@
-/*Thays dos Santos Barroso
- Matrícula: 0050006852*/
+/*Thays dos Santos Barroso Ribeiro
+ MatrÃ­cula: 0050006852*/
 
 import java.util.Scanner;
 public class ThaysTabuada {
@@ -11,9 +11,9 @@ public class ThaysTabuada {
 		
 		System.out.println("Digite seu nome: ");
 		nome = input.next();
-		System.out.printf("\nOlá, %s\n", nome);				
+		System.out.printf("\nOlÃ¡, %s\n", nome);				
 		
-		System.out.print("Entre com o número: ");
+		System.out.print("Entre com o nÃºmero: ");
 		num= input.nextInt();
 		
 		System.out.printf("Tabuada de somar do: %d \n",num);
